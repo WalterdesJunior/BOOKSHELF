@@ -60,7 +60,7 @@ O app agrega manchetes de fontes jornalísticas reais via **GNews API**, organiz
 
 | Splash | Login | Cadastro |
 |:---:|:---:|:---:|
-| ![Splash](screenshots/splash.png) | ![Login](screenshots/login.png) | ![Cadastro](screenshots/cadastro.png) |
+| | ![Login](screenshots/Teladelogin.jpeg) | ![Cadastro](screenshots/cadastro.png) |
 
 | Home | Leitura | Salvos |
 |:---:|:---:|:---:|
