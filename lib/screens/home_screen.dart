@@ -171,32 +171,32 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
             ],
           ),
-          PopupMenuButton<String>(
-            icon: const Icon(Icons.account_circle_outlined),
-            itemBuilder: (context) => <PopupMenuEntry<String>>[
-              PopupMenuItem<String>(
-                enabled: false,
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Text(user?.name ?? 'Usuário',
-                        style: const TextStyle(fontWeight: FontWeight.bold)),
-                    Text(user?.email ?? 'email@exemplo.com',
-                        style: const TextStyle(
-                            fontSize: 12, color: AppTheme.textSecondary)),
-                  ],
+            PopupMenuButton<String>(
+              icon: const Icon(Icons.account_circle_outlined),
+              itemBuilder: (context) => <PopupMenuEntry<String>>[
+                PopupMenuItem<String>(
+                  enabled: false,
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(user?.name ?? 'Usuário',
+                          style: const TextStyle(fontWeight: FontWeight.bold)),
+                      Text(user?.email ?? 'email@exemplo.com',
+                          style: const TextStyle(
+                              fontSize: 12, color: AppTheme.textSecondary)),
+                    ],
+                  ),
                 ),
-              ),
-              const PopupMenuDivider(),
-              const PopupMenuItem<String>(
-                value: 'logout',
-                child: Row(
-                  children: [
-                    Icon(Icons.logout, size: 18, color: AppTheme.error),
-                    SizedBox(width: 8),
-                    Text('Sair', style: TextStyle(color: AppTheme.error)),
-                  ],
-                ),
+                const PopupMenuDivider(),
+                const PopupMenuItem<String>(
+                  value: 'logout',
+                  child: Row(
+                    children: [
+                      Icon(Icons.logout, size: 18, color: AppTheme.error),
+                      SizedBox(width: 8),
+                      Text('Sair', style: TextStyle(color: AppTheme.error)),
+                    ],
+                  ),
               ),
             ],
             onSelected: (val) {
