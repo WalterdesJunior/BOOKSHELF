@@ -56,18 +56,20 @@ O app agrega manchetes de fontes jornalísticas reais via **GNews API**, organiz
 
 ## 🖼️ Telas do App
 
-> Para adicionar capturas de tela: tire prints no celular (**Volume Baixo + Power**), crie uma pasta `screenshots/` no projeto e substitua os links abaixo.
+### Tela de Login
+![Login](<img width="1220" height="2712" alt="Tela de login" src="https://github.com/user-attachments/assets/ff5541a5-4e54-47c6-8be9-46b51830656a" />)
 
-| Splash | Login | Cadastro |
-|:---:|:---:|:---:|
-| | ![Login](screenshots/Teladelogin.jpeg) | ![Cadastro](screenshots/cadastro.png) |
+### Tela de Cadastro
+![Cadastro](screenshots/tela%20de%20cadastro.jpeg)
 
-| Home | Leitura | Salvos |
-|:---:|:---:|:---:|
-| ![Home](screenshots/home.png) | ![Leitura](screenshots/leitura.png) | ![Salvos](screenshots/salvos.png) |
+### Tela de Notícias
+![Home](screenshots/tela%20de%20noticias.jpeg)
 
----
+### Informações da Notícia
+![Leitura](screenshots/Informac%CC%�o%CC%83es%20sobre%20a%20noticia.jpeg)
 
+### Notícias Salvas
+![Salvos](screenshots/tela%20de%20noticias%20salvas.jpeg)
 ## 🗂️ Estrutura do Projeto
 
 ```
