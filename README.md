@@ -56,20 +56,33 @@ O app agrega manchetes de fontes jornalísticas reais via **GNews API**, organiz
 
 ## 🖼️ Telas do App
 
-### Tela de Login
-![Login](screenshots/Tela%20de%20login.jpeg)
+<div align="center">
 
-### Tela de Cadastro
-![Cadastro](screenshots/tela%20de%20cadastro.jpeg)
+<table>
+  <tr>
+    <td align="center"><b>Login</b></td>
+    <td align="center"><b>Cadastro</b></td>
+    <td align="center"><b>Notícias</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Tela de login.jpeg" width="220"/></td>
+    <td><img src="screenshots/tela de cadastro.jpeg" width="220"/></td>
+    <td><img src="screenshots/tela de noticias.jpeg" width="220"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Leitura</b></td>
+    <td align="center"><b>Salvos</b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Informações sobre a noticia.jpeg" width="220"/></td>
+    <td><img src="screenshots/tela de noticias salvas.jpeg" width="220"/></td>
+    <td></td>
+  </tr>
+</table>
 
-### Tela de Notícias
-![Home](screenshots/tela%20de%20noticias.jpeg)
+</div>
 
-### Informações da Notícia
-![Leitura](screenshots/Informac%CC%�o%CC%83es%20sobre%20a%20noticia.jpeg)
-
-### Notícias Salvas
-![Salvos](screenshots/tela%20de%20noticias%20salvas.jpeg)
 ## 🗂️ Estrutura do Projeto
 
 ```
