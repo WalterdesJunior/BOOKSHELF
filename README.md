@@ -57,7 +57,7 @@ O app agrega manchetes de fontes jornalísticas reais via **GNews API**, organiz
 ## 🖼️ Telas do App
 
 ### Tela de Login
-![Login](<img width="1220" height="2712" alt="Tela de login" src="https://github.com/user-attachments/assets/ff5541a5-4e54-47c6-8be9-46b51830656a" />)
+![Login](screenshots/Tela%20de%20login.jpeg)
 
 ### Tela de Cadastro
 ![Cadastro](screenshots/tela%20de%20cadastro.jpeg)
