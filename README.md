@@ -339,6 +339,10 @@ sudo apt install -y clang cmake ninja-build pkg-config libgtk-3-dev liblzma-dev 
 **Paulo Henrique**
 [github.com/PauloHenrique](https://github.com/Pauloohenri)
 
+**Walterdes Júnior**
+[github.com/Livio038] (https://github.com/Livio038) 
+
+
 ---
 
 <div align="center">
